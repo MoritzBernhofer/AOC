@@ -1,0 +1,14 @@
+/Users/moritz/Desktop/tmp/day06/day06/bin/Debug/net9.0/day06
+/Users/moritz/Desktop/tmp/day06/day06/bin/Debug/net9.0/day06.deps.json
+/Users/moritz/Desktop/tmp/day06/day06/bin/Debug/net9.0/day06.runtimeconfig.json
+/Users/moritz/Desktop/tmp/day06/day06/bin/Debug/net9.0/day06.dll
+/Users/moritz/Desktop/tmp/day06/day06/bin/Debug/net9.0/day06.pdb
+/Users/moritz/Desktop/tmp/day06/day06/obj/Debug/net9.0/day06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moritz/Desktop/tmp/day06/day06/obj/Debug/net9.0/day06.AssemblyInfoInputs.cache
+/Users/moritz/Desktop/tmp/day06/day06/obj/Debug/net9.0/day06.AssemblyInfo.cs
+/Users/moritz/Desktop/tmp/day06/day06/obj/Debug/net9.0/day06.csproj.CoreCompileInputs.cache
+/Users/moritz/Desktop/tmp/day06/day06/obj/Debug/net9.0/day06.dll
+/Users/moritz/Desktop/tmp/day06/day06/obj/Debug/net9.0/refint/day06.dll
+/Users/moritz/Desktop/tmp/day06/day06/obj/Debug/net9.0/day06.pdb
+/Users/moritz/Desktop/tmp/day06/day06/obj/Debug/net9.0/day06.genruntimeconfig.cache
+/Users/moritz/Desktop/tmp/day06/day06/obj/Debug/net9.0/ref/day06.dll
